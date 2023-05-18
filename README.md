@@ -51,4 +51,5 @@ We detected the following bug:
    4. Actual result: no error shown
 
 
+![image](https://github.com/idolou/Software-Quality-Assurance/assets/63515984/eab8756a-5d58-4b28-b405-ec99238bdcb0)
 
