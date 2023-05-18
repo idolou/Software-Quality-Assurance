@@ -39,7 +39,7 @@ We used two different testing methods:
 Each of the testing methods is elaborated in its own directory. 
 
 ## Results
-Update all README.md files
+
 
 ## Detected Bugs
 We detected the following bug:
